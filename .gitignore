@@ -1,3 +1,4 @@
 env/
 *.db
 test.py
+__pychache__
